@@ -19,7 +19,6 @@ Main files include:
 - `training_script-final.ipynb`  # Model training pipeline
 - `testing_code.ipynb`          # Model evaluation
 - `IMT_function.ipynb`          # IMT computation
-- `Report_MIP_contest.pdf`      # Final report
 - `final-checkpoints/`          # Saved models and parameters
   - `best_model.pth`            # Best trained model
   - `training_params.json`      # Training configuration
