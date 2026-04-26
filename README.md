@@ -15,7 +15,7 @@ Academic Year 2025/2026
 
 ## Data
 
-Main files include:
+Main files `The Wolves of Wall MIP`  include:
 - `training_script-final.ipynb`  # Model training pipeline
 - `testing_code.ipynb`          # Model evaluation
 - `IMT_function.ipynb`          # IMT computation
